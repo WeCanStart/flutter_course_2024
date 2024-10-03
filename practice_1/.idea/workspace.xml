@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee0a2b17-4a2e-46b8-b9cb-a8914f73ff40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/practice_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/practice_1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practice_1.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/features/core/data/debug/weather_repository_debug.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/data/debug/weather_repository_debug.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/features/core/data/osm/models/osm_weather.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/data/osm/models/osm_weather.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/features/core/data/osm/osm_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/data/osm/osm_api.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/features/core/data/osm/weather_repository_osm.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/data/osm/weather_repository_osm.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/features/core/domain/entities/search_query.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/domain/entities/search_query.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/features/core/domain/entities/search_response.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/domain/entities/search_response.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/features/core/domain/repositories/weather_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/domain/repositories/weather_repository.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/features/core/presentation/app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/presentation/app.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,32 +15,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2mvRCBoZSfJkB7jAKN7isNIIJaK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Dart Command Line App.practice_1.dart.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Dart Command Line App.practice_1.dart.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
