@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee0a2b17-4a2e-46b8-b9cb-a8914f73ff40" name="Changes" comment="" />
+    <list default="true" id="ee0a2b17-4a2e-46b8-b9cb-a8914f73ff40" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practice_1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practice_1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/core/data/osm/osm_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/data/osm/osm_api.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/core/data/osm/weather_repository_osm.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/data/osm/weather_repository_osm.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/core/data/wa/weather_repository_wa.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/data/wa/weather_repository_wa.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/core/domain/entities/search_query.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/domain/entities/search_query.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/core/presentation/app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/presentation/app.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727954934319</updated>
       <workItem from="1727954935911" duration="401000" />
+      <workItem from="1727976073605" duration="9940000" />
     </task>
     <servers />
   </component>

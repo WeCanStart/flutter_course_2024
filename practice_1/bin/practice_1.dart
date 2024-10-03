@@ -8,13 +8,13 @@ import 'package:practice_1/features/core/presentation/app.dart';
 const String version = '0.0.1';
 
 const String urlOSM = 'https://api.openweathermap.org';
-const String apiKeyOSM = '';
+const String apiKeyOSM = 'f11a8d09666e4acbd56e3ecc1ccbe31b';
 
 const String urlWA = 'https://api.weatherapi.com/v1';
 const String apiKeyWA = '';
 
 void main(List<String> arguments) {
-  var app = App(WeatherRepositoryWA(WAApi(urlWA, apiKeyWA)));
+  var app = App(WeatherRepositoryOSM(OSMApi(urlOSM, apiKeyOSM)));
 
   app.run();
 }
