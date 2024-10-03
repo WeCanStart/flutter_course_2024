@@ -13,6 +13,8 @@ class WAApi {
     var response = await http.get(Uri.parse('$url/current.json?q=$city&key=$apiKey'));
     var rJson = jsonDecode(response.body);
 
+    print(rJson.toString());
+
     return WAWeather(rJson['current']['temp_c'] + 273.0, rJson['current']['condition']['text']);
   }
 }

@@ -14,7 +14,7 @@ const String urlWA = 'https://api.weatherapi.com/v1';
 const String apiKeyWA = '';
 
 void main(List<String> arguments) {
-  var app = App(WeatherRepositoryOSM(OSMApi(urlOSM, apiKeyOSM)));
+  var app = App(WeatherRepositoryWA(WAApi(urlWA, apiKeyWA)));
 
   app.run();
 }
