@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee0a2b17-4a2e-46b8-b9cb-a8914f73ff40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../practice_3/bin/practice_3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/data/wa/models/wa_weather.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/data/wa/wa_api.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/data/wa/weather_repository_wa.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/domain/entities/search_query.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/domain/entities/search_response.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/domain/repositories/home_page_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/domain/repositories/weather_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/presentation/app.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/practice_1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practice_1.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/features/core/data/wa/wa_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/core/data/wa/wa_api.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_3/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../practice_3/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_3/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_3/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../practice_3/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_3/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice_3/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_3/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../practice_3/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +48,7 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/artem/flutter_course_2024/practice_3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -64,6 +76,12 @@
       <updated>1727954934319</updated>
       <workItem from="1727954935911" duration="401000" />
       <workItem from="1727976073605" duration="14124000" />
+      <workItem from="1727991859403" duration="63000" />
+      <workItem from="1731757308557" duration="17000" />
+      <workItem from="1731778918399" duration="223000" />
+      <workItem from="1731849145188" duration="3801000" />
+      <workItem from="1731875119685" duration="3113000" />
+      <workItem from="1732304500779" duration="83000" />
     </task>
     <servers />
   </component>
