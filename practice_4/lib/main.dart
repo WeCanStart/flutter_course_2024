@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:practice_4/presentation/counter_flow/counter_flow.dart';
+import 'package:practice_4/presentation/counter_flow/notes_flow.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,8 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: CounterFlow(),
+      home: NotesFlow(),
     );
   }
 }
-

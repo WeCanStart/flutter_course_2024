@@ -1,36 +1,58 @@
 import 'package:flutter/material.dart';
-import 'package:practice_4/presentation/counter_flow/counter_page/counter_page.dart';
-import 'package:practice_4/presentation/counter_flow/counter_model.dart';
+import 'package:practice_4/presentation/counter_flow/observe_notes_page/observe_notes_page.dart';
+import 'package:practice_4/presentation/counter_flow/add_note_page/add_note_page.dart';
 import 'package:provider/provider.dart';
+
+import '../notes_model.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
-    CounterModel model = Provider.of(context, listen: true);
-
     return Scaffold(
       body: Center(
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Text('Значение: ${model.counterValue}'),
+            // Observer(
+            //   builder: (_) {
+            //     final NotesModel model = Provider.of<NotesModel>(context, listen: true);
+            //     return Text('Значение: ${model.notes}');
+            //   }
+            // ),
+            // SizedBox(height: 15),
 
-            SizedBox(height: 15,),
+            // TextButton(
+            //   onPressed: () {
+            //     final NotesModel model = Provider.of<NotesModel>(context, listen: false);
+            //     model.counterIncrement();
+            //   },
+            //   child: Text('+1')
+            // ),
 
             TextButton(
-                onPressed: model.counterIncrement,
-                child: Text('+1')
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) => AddNotePage()
+                  ),
+                );
+              },
+              child: const Text('Добавить заметку'),
             ),
 
             TextButton(
-                onPressed: () => Navigator.of(context).push(
-                    MaterialPageRoute(
-                        builder: (_) => CounterPage(model: model)
-                    )
-                ),
-                child: Text('больше')
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => ObserveNotesPage()
+                  ),
+                );
+              },
+              child: const Text('Посмотреть заметки'),
             )
           ],
         ),
