@@ -7,11 +7,11 @@ class NotesModel = NotesModelBase with _$NotesModel;
 
 abstract class NotesModelBase with Store {
   @observable
-  List<String> _notes = [];
+  ObservableList<String> _notes = ObservableList<String>();
 
-  NotesModelBase({List<String>? notes}) : _notes = notes ?? [];
+  NotesModelBase({ObservableList<String>? notes}) : _notes = notes ?? ObservableList<String>();
 
-  List<String> get notes => _notes;
+  ObservableList<String> get notes => _notes;
 
   @action
   void addNote(String note) {

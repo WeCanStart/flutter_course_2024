@@ -13,13 +13,13 @@ mixin _$NotesModel on NotesModelBase, Store {
       Atom(name: 'NotesModelBase._notes', context: context);
 
   @override
-  List<String> get _notes {
+  ObservableList<String> get _notes {
     _$_notesAtom.reportRead();
     return super._notes;
   }
 
   @override
-  set _notes(List<String> value) {
+  set _notes(ObservableList<String> value) {
     _$_notesAtom.reportWrite(value, super._notes, () {
       super._notes = value;
     });

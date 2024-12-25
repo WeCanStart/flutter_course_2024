@@ -4,8 +4,9 @@ import 'package:practice_4/presentation/counter_flow/add_note_page/add_note_scre
 import 'package:provider/provider.dart';
 
 class AddNotePage extends StatelessWidget {
+  // final NotesModel model;
 
-  const AddNotePage({super.key});
+  const AddNotePage({super.key/*, required this.model*/});
 
   @override
   Widget build(BuildContext context) {

@@ -33,8 +33,7 @@ class HomeScreen extends StatelessWidget {
 
             TextButton(
               onPressed: () {
-                Navigator.push(
-                  context,
+                Navigator.of(context).push(
                   MaterialPageRoute(
                     builder: (_) => AddNotePage()
                   ),
@@ -45,10 +44,9 @@ class HomeScreen extends StatelessWidget {
 
             TextButton(
               onPressed: () {
-                Navigator.push(
-                  context,
+                Navigator.of(context).push(
                   MaterialPageRoute(
-                    builder: (context) => ObserveNotesPage()
+                    builder: (_) => ObserveNotesPage()
                   ),
                 );
               },
