@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import './add_wifi_page.dart';
 import './records_wifi_page.dart';
-import './login_page.dart';
 import './web_api.dart';
 
 class HomePage extends StatelessWidget {
