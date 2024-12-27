@@ -52,12 +52,7 @@ class HomePage extends StatelessWidget {
                   );
                 }
                 else {
-                  Navigator.of(context).pushAndRemoveUntil(
-                    MaterialPageRoute(
-                        builder: (context) => LoginScreen()
-                    ),
-                        (route) => false,
-                  );
+                  Navigator.of(context).popUntil((route) => route.isFirst);
                 }
               },
               child: const Text('Clear My Records'),

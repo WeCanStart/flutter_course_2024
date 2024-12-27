@@ -38,12 +38,7 @@ class AddWifiPage extends StatelessWidget {
                 if (res) {
                   Navigator.pop(context);
                 } else {
-                  Navigator.of(context).pushAndRemoveUntil(
-                    MaterialPageRoute(
-                        builder: (context) => LoginScreen()
-                    ),
-                    (route) => false,
-                  );
+                  Navigator.of(context).popUntil((route) => route.isFirst);
                 }
               },
               child: const Text('Add Record'),
