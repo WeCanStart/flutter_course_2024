@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './web_api.dart';
+import '../entities/web_api.dart';
 
 class AddWifiPage extends StatelessWidget {
   final String username;

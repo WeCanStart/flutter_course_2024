@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import './add_wifi_page.dart';
-import './records_wifi_page.dart';
-import './web_api.dart';
+import 'add_wifi_page.dart';
+import 'records_wifi_page.dart';
+import '../entities/web_api.dart';
 
 class HomePage extends StatelessWidget {
   final String username;

@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee0a2b17-4a2e-46b8-b9cb-a8914f73ff40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../practice_3/bin/practice_3.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/data/wa/models/wa_weather.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/data/wa/wa_api.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/data/wa/weather_repository_wa.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/domain/entities/search_query.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/domain/entities/search_response.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/domain/repositories/home_page_repository.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/domain/repositories/weather_repository.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/lib/features/core/presentation/app.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice_3/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../practice_3/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice_3/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice_3/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../practice_3/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice_3/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice_3/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice_3/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../practice_3/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/lib/add_wifi_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../project/lib/pages/add_wifi_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/lib/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../project/lib/pages/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/lib/login_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../project/lib/pages/login_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../project/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/lib/records_wifi_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../project/lib/pages/records_wifi_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/lib/web_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../project/lib/entities/web_api.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +72,8 @@
       <workItem from="1731849145188" duration="3801000" />
       <workItem from="1731875119685" duration="3113000" />
       <workItem from="1732304500779" duration="83000" />
+      <workItem from="1735339981840" duration="654000" />
+      <workItem from="1735340980764" duration="541000" />
     </task>
     <servers />
   </component>

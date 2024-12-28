@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-String link = 'https://0cbd-95-163-189-13.ngrok-free.app';
+String link = 'https://22a0-95-163-189-13.ngrok-free.app';
 String login_link = link + '/login';
 String add_link = link + '/add';
 String records_link = link + '/records';
